@@ -33,3 +33,4 @@ for i in range(len(thislist)):
   print(thislist[i])
 thislist.sort()
 print(thislist)
+print(min(thislist))
